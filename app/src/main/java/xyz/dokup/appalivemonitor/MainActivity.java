@@ -37,8 +37,10 @@ public class MainActivity extends AppCompatActivity {
     public void onClickMonitoringButton() {
         if(isEnabled) {
             // サービスの終了処理
+            isEnabled = false;
         } else {
             // サービスの開始処理
+            isEnabled = true;
         }
 
         setButtonText();

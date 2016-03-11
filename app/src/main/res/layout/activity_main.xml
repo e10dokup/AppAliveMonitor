@@ -10,7 +10,6 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="xyz.dokup.appalivemonitor.MainActivity">
 
-
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -18,4 +17,5 @@
         android:id="@+id/btn_monitoring"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"/>
+
 </RelativeLayout>
