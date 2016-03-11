@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppAliveMonitor</string>
+    <string name="btn_enable">Enable Monitoring</string>
+    <string name="btn_disable">Disable Monitoring</string>
 </resources>
